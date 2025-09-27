@@ -1,2 +1,2 @@
 # JavaStealth
-Stealth game using Java
+Stealth game using JavaFX and Maven
