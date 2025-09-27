@@ -1,0 +1,5 @@
+#context for co-pilot
+
+1. This game is for stealth game for a java school project.
+2. Uses Maven, Java fx.
+3. Currently runs the player body with W,A,S,D keys.
